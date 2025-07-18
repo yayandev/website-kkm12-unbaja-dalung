@@ -1,4 +1,4 @@
-import { faInstagram } from "@fortawesome/free-brands-svg-icons";
+import { faInstagram, faTiktok } from "@fortawesome/free-brands-svg-icons";
 import {
   faEnvelope,
   faMapMarkerAlt,
@@ -29,6 +29,12 @@ const Kontak = () => (
             className="text-yellow-500 mr-2"
           />
           <a href="https://instagram.com/kkm12dalung" target="_blank">
+            @kkm12dalung
+          </a>
+        </p>
+        <p>
+          <FontAwesomeIcon icon={faTiktok} className="text-yellow-500 mr-2" />
+          <a href="https://www.tiktok.com/@kkm12dalung" target="_blank">
             @kkm12dalung
           </a>
         </p>
