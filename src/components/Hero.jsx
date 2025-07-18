@@ -115,7 +115,7 @@ const Hero = () => {
             <p className="font-semibold text-sm sm:text-base">
               Kelurahan Dalung
             </p>
-            <p className="text-xs sm:text-sm opacity-80">Bali</p>
+            <p className="text-xs sm:text-sm opacity-80">Kota Serang</p>
           </div>
 
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-6 hover:bg-white/20 transition-all duration-300 transform hover:scale-105 border border-white/20">
