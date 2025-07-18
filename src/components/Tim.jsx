@@ -193,22 +193,29 @@ const Tim = () => {
       achievements: "Desainer Kreatif, Art Director",
       img: 11,
     },
-    // PDD 1
     {
       id: 11,
       name: "Yayan Faturohman",
-      role: "Koordinator PDD",
+      role: "Koordinator PDD & Software Engineer",
       division: "PDD",
       university: "Universitas Banten Jaya",
       nim: "202X1234577",
       phone: "+62 812-3456-7900",
       email: "yayan@example.com",
-      expertise: ["Pengembangan Desa", "Pemberdayaan", "Analisis"],
-      description: "Mengkoordinasi program pengembangan dan pemberdayaan desa.",
-      achievements: "Community Developer, Rural Development Award",
+      expertise: [
+        "Publikasi",
+        "Dekorasi",
+        "Dokumentasi",
+        "Software Engineering",
+        "Web Development",
+      ],
+      description:
+        "Mengkoordinasi seluruh kegiatan publikasi, dekorasi, dan dokumentasi KKN. Selain itu, berkontribusi dalam pengembangan aplikasi dan sistem informasi penunjang kegiatan.",
+      achievements:
+        "Koordinator Media Kegiatan Sosial, Pengembang Website Portfolio KKN, Pengelola Dokumentasi Terbaik",
       img: 12,
     },
-    // PDD 2
+
     {
       id: 12,
       name: "Muhamad Fikri Haikal",
@@ -218,12 +225,13 @@ const Tim = () => {
       nim: "202X1234578",
       phone: "+62 812-3456-7901",
       email: "fikri@example.com",
-      expertise: ["Riset", "Pemberdayaan", "Edukasi"],
+      expertise: ["Fotografi", "Desain Grafis", "Publikasi"],
       description:
-        "Melakukan riset dan implementasi program pemberdayaan masyarakat.",
-      achievements: "Peneliti Muda, Community Empowerment",
+        "Bertugas dalam pengambilan foto/video kegiatan KKN, membuat materi publikasi seperti poster, dan membantu penataan dekorasi.",
+      achievements: "Fotografi Profesional, Desainer Media Sosial",
       img: 13,
     },
+
     // Humas 1
     {
       id: 13,
